@@ -4,9 +4,9 @@ body {
 }
 
 body {
-  background-image: url(../bg.png);
+  /* background-image: url(../bg.png); */
   background-size: cover;
-  background-color: #000000;
+  background-color: #252525;
 }
 
 body > .container {
